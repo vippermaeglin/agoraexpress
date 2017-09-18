@@ -1,4 +1,4 @@
-<img src="http://www.expressoagora.com.br/resources/53.jpg" alt="Self-Driving Car" width="800px">
+<img src="http://www.expressoagora.com.br/resources/53.jpg" alt="Self-Driving Car" width="200px">
 
 # Agora Express #
 * [www.expressoagora.com.br](https://www.expressoagora.com.br)
