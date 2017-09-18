@@ -1,0 +1,99 @@
+D:\Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.exe.config
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\ResolveAssemblyReference.cache
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.MainForm.resources
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.csproj.GenerateResource.Cache
+D:\Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.exe
+D:\Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.pdb
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.exe
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.pdb
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.Properties.Resources.resources
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.CadastroOS.resources
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.exe.config
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.exe
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.pdb
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.CadastroOS.resources
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.MainForm.resources
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.Properties.Resources.resources
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.csproj.GenerateResource.Cache
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.exe
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.pdb
+C:\Documents and Settings\Kátia\Desktop\Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.exe.config
+C:\Documents and Settings\Kátia\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.exe
+C:\Documents and Settings\Kátia\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.pdb
+C:\Documents and Settings\Kátia\Desktop\Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.exe
+C:\Documents and Settings\Kátia\Desktop\Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.pdb
+C:\Documents and Settings\Kátia\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kátia\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.CadastroOS.resources
+C:\Documents and Settings\Kátia\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.MainForm.resources
+C:\Documents and Settings\Kátia\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.Properties.Resources.resources
+C:\Documents and Settings\Kátia\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.csproj.GenerateResource.Cache
+C:\Documents and Settings\Kátia\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.CadastroCL.resources
+C:\Documents and Settings\Kátia\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.CadastroFC.resources
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.CadastroCL.resources
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.CadastroFC.resources
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.exe.manifest
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.application
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.exe.manifest
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.application
+D:\Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.exe.manifest
+D:\Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.application
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.CadastroCL.resources
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.CadastroFC.resources
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.exe.manifest
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.application
+D:\Projeto Agora Motoboy\Agora Express\bin\Debug\pt-BR\Agora Express.resources.dll
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.MainForm.pt-BR.resources
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\pt-BR\Agora Express.resources.dll
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.GerenciaFC.resources
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\RdlCompile.cache
+D:\Projeto Agora Motoboy\Agora Express\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\bin\Debug\pt-BR\Agora Express.resources.dll
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.GerenciaFC.resources
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.MainForm.pt-BR.resources
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\pt-BR\Agora Express.resources.dll
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.GERENCIA_CL.resources
+C:\Documents and Settings\user_xp\Desktop\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.RotaOS.resources
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.exe.config
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.exe
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.pdb
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.exe.manifest
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.application
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.exe
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.pdb
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\bin\Debug\pt-BR\Agora Express.resources.dll
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.CadastroCL.resources
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.CadastroFC.resources
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.CadastroOS.resources
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.GerenciaFC.resources
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.GERENCIA_CL.resources
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.MainForm.resources
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.Properties.Resources.resources
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.RotaOS.resources
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.MainForm.pt-BR.resources
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.csproj.GenerateResource.Cache
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\pt-BR\Agora Express.resources.dll
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.exe.manifest
+C:\Documents and Settings\user_xp\Desktop\BACKUP_Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.application
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\bin\Debug\Agora Express.exe.config
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.exe
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora Express.pdb
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\ResolveAssemblyReference.cache
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.CadastroCL.resources
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.CadastroFC.resources
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.CadastroOS.resources
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.GerenciaFC.resources
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.GERENCIA_CL.resources
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.MainForm.resources
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.Properties.Resources.resources
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.RotaOS.resources
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\Agora_Express.MainForm.pt-BR.resources
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\ResGen.read.1.tlog
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\ResGen.write.1.tlog
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\RdlCompile.cache
+Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\obj\Debug\RdlCompile.compiled

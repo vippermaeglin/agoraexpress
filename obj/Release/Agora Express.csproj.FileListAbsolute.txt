@@ -1,0 +1,4 @@
+D:\Projeto Agora Motoboy\Agora Express\bin\Release\Agora Express.exe.config
+D:\Projeto Agora Motoboy\Agora Express\obj\Release\ResolveAssemblyReference.cache
+D:\Projeto Agora Motoboy\Agora Express\obj\Release\Agora_Express.MainForm.resources
+D:\Projeto Agora Motoboy\Agora Express\obj\Release\Agora Express.csproj.GenerateResource.Cache

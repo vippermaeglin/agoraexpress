@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Agora Express">
+</Property><Property Name="Solution File" Value="Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Agora Express.sln">
+</Property><Property Name="User Options File" Value="Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Agora Express.suo">
+</Property><Property Name="Date" Value="segunda-feira, 26 de setembro de 2011">
+</Property><Property Name="Time" Value="09:22">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Agora Express.sln" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Agora Express.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Agora Express.suo" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Agora Express.suo">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Agora Express.csproj" Description="Project file successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Agora Express.csproj">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Agora Express.csproj.user" Description="Project user file successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Agora Express.csproj.user">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="AssemblyInfo.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="CadastroCL.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\CadastroCL.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="CadastroCL.Designer.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\CadastroCL.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="CadastroFC.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\CadastroFC.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="CadastroFC.Designer.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\CadastroFC.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="CadastroOS.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\CadastroOS.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="CadastroOS.Designer.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\CadastroOS.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="daoFireBird.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\daoFireBird.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="GerenciaFC.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\GerenciaFC.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="GerenciaFC.Designer.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\GerenciaFC.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="GERENCIA_CL.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\GERENCIA_CL.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="GERENCIA_CL.Designer.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\GERENCIA_CL.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="MainForm.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="MainForm.Designer.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="OSprint.Designer.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\OSprint.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Program.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Program.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="RotaOS.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\RotaOS.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="RotaOS.Designer.cs" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\RotaOS.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="app.config" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\app.config">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Arquivos\Logo Agora.JPG" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Arquivos\Logo Agora.JPG">
+</Event><Event ErrorLevel="2" Project="Agora Express" Source="Arquivos\Icon Agora.JPG" Description="Failed to backup file as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Arquivos\Icon Agora.JPG">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Arquivos\Foto.JPG" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Arquivos\Foto.JPG">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Agora Express_TemporaryKey.pfx" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Agora Express_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Arquivos\logopronto.jpg" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Arquivos\logopronto.jpg">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Arquivos\FUNDO.JPG" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Arquivos\FUNDO.JPG">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Arquivos\eternal-sky.jpg" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Arquivos\eternal-sky.jpg">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Arquivos\eternal-sky2.jpg" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Arquivos\eternal-sky2.jpg">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Arquivos\Ico Agora.JPG" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Arquivos\Ico Agora.JPG">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Arquivos\wind.jpg" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Arquivos\wind.jpg">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Arquivos\eternal-sky4.jpg" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Arquivos\eternal-sky4.jpg">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Arquivos\eternal-sky53.jpg" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Arquivos\eternal-sky53.jpg">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="OSprint.xsc" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\OSprint.xsc">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="OSprint.xsd" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\OSprint.xsd">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="OSprint.xss" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\OSprint.xss">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Properties\DataSources\FirebirdSql.Data.FirebirdClient.FbDataAdapter.datasource" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Properties\DataSources\FirebirdSql.Data.FirebirdClient.FbDataAdapter.datasource">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="CadastroCL.resx" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\CadastroCL.resx">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="CadastroFC.resx" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\CadastroFC.resx">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="CadastroOS.resx" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\CadastroOS.resx">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="GerenciaFC.resx" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\GerenciaFC.resx">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="GERENCIA_CL.resx" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\GERENCIA_CL.resx">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="MainForm.pt-BR.resx" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\MainForm.pt-BR.resx">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="MainForm.resx" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Properties\Resources.resx" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Report1.rdlc" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\Report1.rdlc">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="RotaOS.resx" Description="File successfully backed up as Z:\Projetos Visual\Projeto Agora Motoboy\Agora Express\Backup1\RotaOS.resx">
+</Event><Event ErrorLevel="1" Project="Agora Express" Source="Agora Express.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Agora Express.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Agora Express" Source="Agora Express.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Agora Express.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Agora Express.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Agora Express" Source="Agora Express.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
